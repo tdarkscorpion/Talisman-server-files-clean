@@ -15,6 +15,9 @@ this will ask for set Database Password So Make Strong Password
 
 first of all 
 
+```apt-get install git -y ```
+
+
 
 ``` git clone https://github.com/tdarkscorpion/Talisman.git```
 
