@@ -14,7 +14,7 @@ first of all ``` git clone https://github.com/tdarkscorpion/Talisman.git```
 
 then ``` cd Talisman && mv * ../ ```
 
-Open All``` .INI``` files from all folders and replace ```192.168.52.128``` this ip to ```your ip ```
+Open All``` .INI``` files from ```all folders``` and replace ```192.168.52.128``` this ip to ```your ip ```
 
 then open ```db``` folder and file name ```db_server_user.ini``` and replace ```22021982``` to your ```sql database password``` 
 
