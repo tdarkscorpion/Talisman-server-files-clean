@@ -20,7 +20,27 @@ then open db folder and file name db_server_user.ini and replace 22021982 to you
 
 then give execute permission to db -> db_server and guard  login -> login_server and guard game -> game_server and guard 
 
+chmod +x db/db_server
+chmod +777 db/db_server
+
+chmod +x login/login_server
+chmod +777 login/login.server
+
+chmod +x game/game_server
+chmod +777 game/game_server
+
 then also give same permission to file 1 2 3 
+
+chmod +x 1
+chmod +777 1
+
+
+chmod +x 2
+chmod +777 2
+
+
+chmod +x 3
+chmod +777 3
 
 
 then dpkg -i *.deb 
