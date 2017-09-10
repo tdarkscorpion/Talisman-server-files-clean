@@ -1,0 +1,4 @@
+block 1000, total 37000, active 14621, size 12, leak 175452.
+block 1000, total 37000, active 14606, size 12, leak 175272.
+block 1000, total 37000, active 14642, size 12, leak 175704.
+block 1000, total 37000, active 14642, size 12, leak 175704.

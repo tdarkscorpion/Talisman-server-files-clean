@@ -1,0 +1,39 @@
+[client]
+Capability = "2000"
+UseGate = "false"
+ListenIp = "192.168.52.128"
+ListenPortal = "192.168.52.128"
+ListenPort = "8886"
+[login]
+BindIP = ""
+BindPort = ""
+ConnectIp = "192.168.52.128"
+ConnectPort = "9002"
+[game_db]
+BindIP = ""
+BindPort = ""
+ConnectIp = "localhost"
+ConnectPort = "9006"
+[log_db]
+BindIP = ""
+BindPort = ""
+ConnectIp = "localhost"
+ConnectPort = "9006"
+[server]
+Description = "poland_test_server"
+name = "Server"
+location = "192.168.52.128"
+Idx = 1
+Order = 1
+ListPv = 0
+[anti_robot]
+OpenFlag = "false"
+ClientDetect = "false"
+StartAuto = "false"
+EctypeAskFlag = "false"
+[licenseport]
+port = 9101
+[licenseserver]
+sv1 = "192.168.52.128"
+sv2 = "192.168.52.128"
+sv3 = "192.168.52.128"

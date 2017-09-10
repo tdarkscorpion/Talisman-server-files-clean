@@ -1,0 +1,6 @@
+#!/bin/sh
+cd /home/login/
+ulimit -c unlimited
+rm *.pid -f
+/home/login/guard -c /home/login/guard_user.ini
+

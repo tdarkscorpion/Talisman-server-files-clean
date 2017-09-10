@@ -1,0 +1,21 @@
+[dbserver]
+ListenIp = "localhost"
+ListenPort = "9006"
+[db_login]
+Server = "localhost"
+Port = 3306
+Database = "db_account"
+UserName = "root"
+Password = "22021982"
+[db_game]
+Server = "localhost"
+Port = 3306
+Database = "db_game"
+UserName = "root"
+Password = "22021982"
+[db_log]
+Server = "localhost"
+Port = 3306
+Database = "db_log"
+UserName = "root"
+Password = "22021982"

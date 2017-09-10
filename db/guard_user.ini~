@@ -1,0 +1,10 @@
+[Guard]
+ApplicationName="db_server"
+ApplicationConfigName="db_server_user.ini"
+GuardPort=9008
+PublishServerIP="localhost"
+PublishServerPort=9009
+DeadLoopTime=0
+RebootTimeWhenShutdown=16
+RebootTimeWhenDeadLoop=16
+StartAppRightAwayFlag=1
