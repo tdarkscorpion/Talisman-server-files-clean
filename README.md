@@ -11,7 +11,7 @@ Get Ubuntu 14.04 32 bit then follw this instructions
 
 ``` apt-get install lamp-server^ -y ```
 
-```pat-get install phpmyadmin -y ```
+```apt-get install phpmyadmin -y ```
 
 this will ask for set Database Password So Make Strong Password 
 
