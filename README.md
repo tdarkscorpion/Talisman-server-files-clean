@@ -42,6 +42,8 @@ then also give same permission to file 1 2 3
 
 then```dpkg -i *.deb ```
 
+ don't forget to put your ```game_server.evp``` in ```game``` folder i cant upload coz github dont support file larger then 25.MB 
+
 
 
 and the last step to start server 
