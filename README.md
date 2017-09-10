@@ -18,6 +18,11 @@ Open All``` .INI``` files from all folders and replace ```192.168.52.128``` this
 
 then open ```db``` folder and file name ```db_server_user.ini``` and replace ```22021982``` to your ```sql database password``` 
 
+``` apt-get install p7zip-full -y ```
+
+``` cd game && 7z x *.7z```
+
+
 then give execute permission to 
 ``` db -> db_server and guard  login -> login_server and guard game -> game_server and guard ```
 
