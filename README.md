@@ -5,6 +5,7 @@ talisman online clean server files
 Buy VPS From https://www.vultr.com/?ref=7212876  
 
 Get Ubuntu 14.04 32 bit then follw this instrucctions 
+```apt-get update ```
 
 ``` apt-get install lamp-server^ -y ```
 
