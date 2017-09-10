@@ -1,8 +1,10 @@
 # Talisman
 talisman online clean server files
 
-#first of all  git clone https://github.com/tdarkscorpion/Talisman.git
-#then cd Talisman && mv * ../ 
+
+first of all  git clone https://github.com/tdarkscorpion/Talisman.git
+
+then cd Talisman && mv * ../ 
 
 Open All .INI files from all folders and replace 192.168.52.128 this ip to your ip 
 
