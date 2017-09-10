@@ -2,6 +2,10 @@
 talisman online clean server files
 
 
+Buy VPS From https://www.vultr.com/?ref=7212876  
+
+Get Ubuntu 14.04 32 bit then follw this instrucctions 
+
 first of all  git clone https://github.com/tdarkscorpion/Talisman.git
 
 then cd Talisman && mv * ../ 
@@ -26,7 +30,7 @@ then wait to connect
  to change game_server.evp ask to your editor 
  
  if you like my help then donate as you like on paypal tdarkscorpion@gmail.com
- 
+ For More Details Pm Me At https://fb.me/darkscorpiont  
  
  
 
