@@ -49,7 +49,7 @@ then```dpkg -i *.deb ```
 and the last step to start server 
 
 
-then ``` apt-get install screen ```
+then ``` apt-get install screen -y ```
 
 
 ``` screen``` <== this is command in ubuntu 
