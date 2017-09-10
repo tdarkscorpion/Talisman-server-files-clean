@@ -14,11 +14,13 @@ first of all ``` git clone https://github.com/tdarkscorpion/Talisman.git```
 
 then ``` cd Talisman && mv * ../ ```
 
-Open All .INI files from all folders and replace 192.168.52.128 this ip to your ip 
+Open All``` .INI``` files from all folders and replace ```192.168.52.128``` this ip to ```your ip ```
 
-then open db folder and file name db_server_user.ini and replace 22021982 to your sql database password 
+then open ```db``` folder and file name ```db_server_user.ini``` and replace ```22021982``` to your ```sql database password``` 
 
-then give execute permission to ``` db -> db_server and guard  login -> login_server and guard game -> game_server and guard ```
+then give execute permission to 
+``` db -> db_server and guard  login -> login_server and guard game -> game_server and guard ```
+
 ```chmod +x db/db_server```
 
 ```chmod +777 db/db_server```
