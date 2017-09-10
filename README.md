@@ -6,6 +6,10 @@ Buy VPS From https://www.vultr.com/?ref=7212876
 
 Get Ubuntu 14.04 32 bit then follw this instrucctions 
 
+apt-get install lamp-server^ -y 
+
+this will ask for set Database Password So Make Strong Password 
+
 first of all  git clone https://github.com/tdarkscorpion/Talisman.git
 
 then cd Talisman && mv * ../ 
@@ -18,14 +22,26 @@ then give execute permission to db -> db_server and guard  login -> login_server
 
 then also give same permission to file 1 2 3 
 
+
+then dpkg -i *.deb 
+
+
+
 and the last step to start server 
 
+
+then apt-get install screen
+
+screen <== this is command in ubuntu 
+
 ./1 
-then wait to connect 
- ./2
- then wait to connect and last step
+then wait to connect after connect press ctrl+A then D 
+
+screen
+./2
+ then wait to connect and last step press ctrl+A then D 
  
- ./3 and your talisman server is online so go and play 
+ ./3 and your talisman server is online press ctrl+A then D and go play 
  
  to change game_server.evp ask to your editor 
  
