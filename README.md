@@ -89,23 +89,23 @@ then
 ``` apt-get install screen -y ```
 
 
-``` screen``` <== this is command in ubuntu 
-
-
-```./1 ```
-
-then wait to connect after connect press ctrl+A then D 
-
-```screen ```
-
-
-```./2 ```
-
-then wait to connect and last step press ctrl+A then D 
  
- ```./3 ```
- 
- and your talisman server is online press ``` ctrl+A then D ``` and go play 
+``` screen -d -m ./1 ```
+
+
+then wait to 3 minutes 
+
+
+```  screen -d -m ./2 ```
+
+
+then wait 6 minutes  
+
+
+ ``` screen -d -m ./3 ```
+
+
+ and your talisman server is online  and go play 
  
  to change game_server.evp ask to your editor 
  
