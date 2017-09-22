@@ -109,7 +109,7 @@ then wait 6 minutes
  
  to change game_server.evp ask to your editor 
  
- if you like my help then donate as you like on paypal tdarkscorpion@gmail.com
+ if you like my help then donate as you like on paypal https://paypal.me/Krushnadeep
  For More Details Pm Me At https://fb.me/darkscorpiont  
  
  
