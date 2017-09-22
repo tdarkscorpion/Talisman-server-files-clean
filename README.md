@@ -28,6 +28,9 @@ then
 
 ``` cd Talisman && mv * ../ ```
 
+```cd```
+
+
 Open All``` .INI``` files from ```all folders``` and replace ```192.168.52.128``` this ip to ```your ip ```
 
 then open ```db``` folder and file name ```db_server_user.ini``` and replace ```22021982``` to your ```sql database password``` 
@@ -39,6 +42,7 @@ then open ```db``` folder and file name ```db_server_user.ini``` and replace ```
 
 ``` cd game && 7z x *.7z```
 
+```cd```
 
 then give execute permission to 
 
