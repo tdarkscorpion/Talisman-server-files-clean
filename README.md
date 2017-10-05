@@ -1,11 +1,16 @@
 # Talisman
 talisman online clean server files
 
+And download ssh secure shell (this supprt file transfer too ) from http://www.wm.edu/offices/it/services/software/licensedsoftware/webeditingsftp/sshsecureshell/index.php
+William & Mary - SSH Secure Shell Client
+
 
 Buy VPS From https://www.vultr.com/?ref=7212876  
 
 Get Ubuntu 14.04 32 bit then follw this instructions
 
+Here you get details to connect your vps details ip and password 
+so use secure shell to connect vps using ip username is root and password
 
 ```apt-get update ```
 
