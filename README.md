@@ -97,19 +97,18 @@ then
 ``` screen -d -m ./1 ```
 
 
-then wait to 3 minutes 
+This will show nothing but wait to 3 minutes 
 
 
 ```  screen -d -m ./2 ```
 
 
-then wait 6 minutes  
-
+This will show nothing but wait 6 minutes  
 
  ``` screen -d -m ./3 ```
 
 
- and your talisman server is online  and go play 
+ This will show nothing but your talisman server is online  and go play 
  
  to change game_server.evp ask to your editor 
  
