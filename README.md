@@ -115,7 +115,7 @@ This will show nothing but wait 6 minutes  
 
  This will show nothing but your talisman server is online  and go play 
  
- to change game_server.evp ask to your editor or pm My Friend Mcsteam airajane https://fb.me/steam.airajhane
+ to change game_server.evp ask to your editor or pm My Friend Mcsteam airajane https://fb.me/mcsteam.airajhane
  
  if you like my help then donate as you like on paypal https://paypal.me/Krushnadeep
  For More Details Pm Me At https://fb.me/darkscorpiont  
