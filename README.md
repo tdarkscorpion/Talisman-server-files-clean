@@ -64,7 +64,7 @@ then give execute permission to
 ```chmod +x login/login_server```
 
 
-```chmod +777 login/login.server```
+```chmod +777 login/login_server```
 
 
 ```chmod +x game/game_server```
