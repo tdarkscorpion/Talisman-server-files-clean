@@ -57,30 +57,30 @@ then give execute permission to
 ```sudo chmod +x db/db_server```
 
 
-```sudo chmod +777 db/db_server```
+```sudo chmod 777 db/db_server```
 
 
 
 ```sudo chmod +x login/login_server```
 
 
-```sudo chmod +777 login/login_server```
+```sudo chmod 777 login/login_server```
 
 
 ```sudo chmod +x game/game_server```
 
 
-```sudo chmod +777 game/game_server```
+```sudo chmod 777 game/game_server```
 
 
 then also give same permission to file 1 2 3 
 
 
-```sudo chmod +x 1 && sudo chmod +777 1```
+```sudo chmod +x 1 && sudo chmod 777 1```
 
-```sudo chmod +x 2 && sudo chmod +777 2```
+```sudo chmod +x 2 && sudo chmod 777 2```
 
-```sudo chmod +x 3 && sudo chmod +777 3```
+```sudo chmod +x 3 && sudo chmod 777 3```
 
 then
 
