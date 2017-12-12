@@ -54,33 +54,30 @@ then give execute permission to
 ``` db -> db_server and guard  login -> login_server and guard game -> game_server and guard ```
 
 
-```sudo chmod +x db/db_server```
 
 
-```sudo chmod 777 db/db_server```
+```sudo chmod 755 db/db_server```
 
 
 
-```sudo chmod +x login/login_server```
 
 
-```sudo chmod 777 login/login_server```
+```sudo chmod 755 login/login_server```
 
 
-```sudo chmod +x game/game_server```
 
 
-```sudo chmod 777 game/game_server```
+```sudo chmod 755 game/game_server```
 
 
 then also give same permission to file 1 2 3 
 
 
-```sudo chmod +x 1 && sudo chmod 777 1```
+```sudo chmod 755 1```
 
-```sudo chmod +x 2 && sudo chmod 777 2```
+```sudo chmod 755 2```
 
-```sudo chmod +x 3 && sudo chmod 777 3```
+```sudo chmod 755 3```
 
 then
 
