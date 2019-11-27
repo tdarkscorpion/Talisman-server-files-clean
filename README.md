@@ -108,7 +108,7 @@ then
 ``` screen -d -m ./1 ```
 ***
 
-This will show nothing but wait to 
+This will show nothing but wait 5 minutes
 
 ***
 ```  screen -d -m ./2 ```
