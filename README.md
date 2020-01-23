@@ -91,7 +91,7 @@ then
 ***
 ```sudo dpkg -i lib*.deb ```
 ***
- don't forget to put your  *game_server.evp*  in *game* folder i cant upload coz github dont support file larger then 25.MB 
+ don't forget to put your  *darkscorpio.evp*  in *game* folder i cant upload coz github dont support file larger then 25.MB 
 
 
 
