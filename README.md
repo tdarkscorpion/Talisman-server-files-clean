@@ -122,7 +122,7 @@ This will show nothing but wait
  
  
  
- if you like my help then donate as you like on paypal [Donate Me And Support me](https://paypal.me/Krushnadeep)
+ if you like my help then donate as you like on paypal [Donate Me And Support me](https://paypal.me/himeshpatel1994)
   For More Details Pm Me At [Himesh Patel](https://fb.me/darkscorpiont)  
  
  
